@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class SearchAlgorithms {
+public class  BinarySearch {
 
    
     public static int binarySearch(Product[] products, String targetProductName) {
