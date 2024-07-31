@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class EmployeeManagementSystem {
+public class EMS {
     private Employee[] employees;
     private int count;
 
