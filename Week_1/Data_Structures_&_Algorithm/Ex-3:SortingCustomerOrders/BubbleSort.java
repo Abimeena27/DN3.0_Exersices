@@ -1,4 +1,4 @@
-public class SortingAlgorithms {
+public class BubbleSort {
 
    
     public static void bubbleSort(Order[] orders) {
