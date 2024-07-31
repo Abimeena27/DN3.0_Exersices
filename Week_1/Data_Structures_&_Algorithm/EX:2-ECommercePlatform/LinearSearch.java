@@ -1,4 +1,4 @@
-public class SearchAlgorithms {
+public class LinearSearch {
 
     // Linear search
     public static int linearSearch(Product[] products, String targetProductName) {
