@@ -1,4 +1,4 @@
-public class SortingAlgorithms {
+public class QuickSort {
 
     
     public static void quickSort(Order[] orders, int low, int high) {
